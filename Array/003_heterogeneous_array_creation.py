@@ -1,0 +1,1 @@
+# It is not possible to create heterogeneous TYPED arrays in Python.
