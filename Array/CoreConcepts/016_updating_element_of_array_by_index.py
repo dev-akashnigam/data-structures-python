@@ -6,7 +6,7 @@ print(f"Original Array, arr = {arr}")
 arr[0] = 100
 print(f"Array after updating the first array element with value: 100, arr = {arr}")
 
-arr[-1] = 500
+arr[-1] = 500  # arr[len(arr)-1] would also work
 print(f"Array after updating the last array element with value: 500, arr = {arr}")
 
 arr[2] = 300
