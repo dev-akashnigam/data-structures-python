@@ -1,7 +1,7 @@
-str = "This story is about Akash Nigam"
+str = "The curious fox wandered through the misty valley at dawn"
 print(f"Original String = {str}")
 
-subs = "This"
+subs = "The"
 
 start_check = str.startswith(subs)
 
