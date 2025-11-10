@@ -1,3 +1,4 @@
+# In Python, strings are immutable — you cannot modify them in place. Therefore, there’s no method like insert() for strings.
 str = "Although it was raining, they continued the game"
 print(f"Original String = {str}")
 
